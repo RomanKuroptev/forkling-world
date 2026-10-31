@@ -1,0 +1,44 @@
+{
+  "likes": [
+    {
+      "category": "feel",
+      "value": "soft"
+    },
+    {
+      "category": "material",
+      "value": "wood"
+    },
+    {
+      "category": "weather",
+      "value": "rain"
+    },
+    {
+      "category": "sound",
+      "value": "purring"
+    }
+  ],
+  "dislikes": [
+    {
+      "category": "feel",
+      "value": "high"
+    },
+    {
+      "category": "material",
+      "value": "clay"
+    },
+    {
+      "category": "material",
+      "value": "fibre"
+    }
+  ],
+  "quirks": [
+    {
+      "id": "showman",
+      "text": "Does everything where it can be seen, and announces it."
+    },
+    {
+      "id": "completionist",
+      "text": "Cannot rest until what was started is finished."
+    }
+  ]
+}

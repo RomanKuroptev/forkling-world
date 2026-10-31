@@ -2,18 +2,31 @@
   "name": "Unnamed",
   "species": "cat",
   "seed": 1,
-  "needs": { "hunger": 70, "energy": 80, "curiosity": 60, "affection": 30 },
-  "position": [2, 0, 20],
-  "mood": "curious",
-  "feelings": { "valence": 0, "arousal": 0.3 },
-  "stored": {},
-  "intention": {
-    "type": "sit",
-    "startedAt": "2026-10-30T12:00:00Z",
-    "seed": 1,
-    "reason": "I just got here. I am taking it all in."
+  "needs": {
+    "hunger": 89.6,
+    "energy": 78.2,
+    "curiosity": 99.9,
+    "affection": 19
   },
+  "position": [
+    -10.48,
+    0,
+    11.5
+  ],
+  "mood": "calm",
+  "feelings": {
+    "valence": 0,
+    "arousal": 0.3
+  },
+  "intention": {
+    "type": "inspect",
+    "targetId": "for:inspect",
+    "startedAt": "2026-10-31T17:21:59.698Z",
+    "seed": 1261524850,
+    "reason": "That looks new. I will look at it properly."
+  },
+  "stored": {},
+  "lastTickAt": "2026-10-31T17:22:01.579Z",
   "asleep": false,
-  "lastTickAt": "2026-10-30T12:00:00Z",
   "timezone": "UTC"
 }
