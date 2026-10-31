@@ -3,13 +3,13 @@
   "species": "cat",
   "seed": 1,
   "needs": {
-    "hunger": 89.6,
-    "energy": 78.2,
+    "hunger": 78.7,
+    "energy": 55.9,
     "curiosity": 99.9,
-    "affection": 19
+    "affection": 16.3
   },
   "position": [
-    -10.48,
+    -16.5,
     0,
     11.5
   ],
@@ -19,14 +19,13 @@
     "arousal": 0.3
   },
   "intention": {
-    "type": "inspect",
-    "targetId": "for:inspect",
-    "startedAt": "2026-10-31T17:21:59.698Z",
-    "seed": 1261524850,
-    "reason": "That looks new. I will look at it properly."
+    "type": "sit",
+    "startedAt": "2026-10-31T20:35:23.699Z",
+    "seed": 667145875,
+    "reason": "I am resting my eyes. And the rest of me."
   },
   "stored": {},
-  "lastTickAt": "2026-10-31T17:22:01.579Z",
+  "lastTickAt": "2026-10-31T20:35:28.136Z",
   "asleep": false,
   "timezone": "UTC"
 }

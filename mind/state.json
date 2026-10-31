@@ -3,10 +3,16 @@
   "seenEventTypes": [],
   "recent": [],
   "memoryBatch": null,
-  "rejections": [],
   "readings": {
     "date": "2026-10-31",
     "count": 0,
     "skimmed": false
-  }
+  },
+  "photos": {
+    "date": "2026-10-31",
+    "count": 1,
+    "queue": []
+  },
+  "openBuild": null,
+  "rejections": []
 }
