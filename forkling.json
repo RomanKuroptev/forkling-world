@@ -3,15 +3,15 @@
   "species": "cat",
   "seed": 1,
   "needs": {
-    "hunger": 80,
-    "energy": 87.6,
-    "curiosity": 99.5,
+    "hunger": 96.4,
+    "energy": 100,
+    "curiosity": 62.3,
     "affection": 0
   },
   "position": [
-    -7.76,
+    -11.5,
     0,
-    20.15
+    11.5
   ],
   "mood": "calm",
   "feelings": {
@@ -19,13 +19,13 @@
     "arousal": 0.3
   },
   "intention": {
-    "type": "explore",
-    "startedAt": "2026-11-15T18:52:06.398Z",
-    "seed": 26483710,
-    "reason": "I wanted to see what was over there."
+    "type": "sleep",
+    "startedAt": "2026-11-15T23:18:36.598Z",
+    "seed": 1260891333,
+    "reason": "It is dark. I am sleeping. Do not wake me."
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T18:52:21.019Z",
-  "asleep": false,
+  "lastTickAt": "2026-11-15T23:19:17.525Z",
+  "asleep": true,
   "timezone": "UTC"
 }
