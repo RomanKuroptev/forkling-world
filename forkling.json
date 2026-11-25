@@ -3,9 +3,9 @@
   "species": "cat",
   "seed": 1,
   "needs": {
-    "hunger": 77.5,
-    "energy": 85.2,
-    "curiosity": 99.7,
+    "hunger": 73.3,
+    "energy": 100,
+    "curiosity": 95.5,
     "affection": 0
   },
   "position": [
@@ -19,13 +19,13 @@
     "arousal": 0.3
   },
   "intention": {
-    "type": "sit",
-    "startedAt": "2026-11-20T23:09:19.699Z",
-    "seed": 1848682998,
-    "reason": "I am resting my eyes. And the rest of me."
+    "type": "sleep",
+    "startedAt": "2026-11-25T01:00:10.299Z",
+    "seed": 78104000,
+    "reason": "It is dark. I am sleeping. Do not wake me."
   },
   "stored": {},
-  "lastTickAt": "2026-11-20T23:09:25.694Z",
+  "lastTickAt": "2026-11-25T01:02:06.945Z",
   "asleep": true,
   "timezone": "UTC"
 }
